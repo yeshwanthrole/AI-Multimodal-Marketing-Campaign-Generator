@@ -1,0 +1,6 @@
+{
+  "name": "AI Multimodal Marketing Campaign Generator",
+  "description": "Generate coordinated cross-platform digital marketing campaigns across promotional copy, poster images, audio jingles, and promotional videos with real-time consistency checking and ethics reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
